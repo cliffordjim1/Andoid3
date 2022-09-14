@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "53242993760",
+    "firebase_url": "https://mysignupapp-deb0d-default-rtdb.firebaseio.com",
+    "project_id": "mysignupapp-deb0d",
+    "storage_bucket": "mysignupapp-deb0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53242993760:android:ec7f6ad17daee9dbf37705",
+        "android_client_info": {
+          "package_name": "com.cite.mysignupapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53242993760-uia05vc3u95jl1efkpdn5slb5gk8ov2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5_i8tQUpr9n8sHT8rxgi5xw6GFiI-Ze0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53242993760-uia05vc3u95jl1efkpdn5slb5gk8ov2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
